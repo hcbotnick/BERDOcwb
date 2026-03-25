@@ -205,12 +205,14 @@ figure.post-thumbnail figcaption {
     display: grid;
     grid-template-columns: minmax(0, 1.6fr) minmax(280px, 2fr);
     gap: 28px;
-    align-items: start;
+    align-items: space-evenly;
     margin: 30px 0 32px;
+  
 }
 
 .viz-left .flourish-embed {
     max-width:100%;
+    
 }
 
 
