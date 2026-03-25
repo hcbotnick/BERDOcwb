@@ -255,22 +255,6 @@ figure.post-thumbnail figcaption {
     object-fit: cover;
 }
 
-@media (max-width: 900px) {
-    .viz-layout {
-        grid-template-columns: 1fr;
-    }
-
-    .viz-right {
-        border-left: 0;
-        border-top: 2px solid #dddddd;
-        padding: 14px 0 0;
-    }
-
-    .viz-layout--images .viz-right {
-        border-top: 0;
-        padding: 0;
-    }
-}
 
 .full-bleed {
   width: 100vw;
