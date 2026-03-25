@@ -203,7 +203,7 @@ figure.post-thumbnail figcaption {
 
 .viz-layout {
     display: grid;
-    grid-template-columns: minmax(0, 1.6fr) minmax(280px, 1fr);
+    grid-template-columns: minmax(0, 1.6fr) minmax(280px, 2fr);
     gap: 28px;
     align-items: start;
     margin: 30px 0 32px;
@@ -211,14 +211,12 @@ figure.post-thumbnail figcaption {
 
 .viz-left .flourish-embed {
     max-width:100%;
-    padding: 12px 16px;
 }
 
 
 .viz-right {
     max-width:100%;
     padding: 12px 16px;
-    border-left: 2px solid #dddddd;
 }
 
 .viz-right h4 {
