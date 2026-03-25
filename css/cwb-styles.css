@@ -31,7 +31,7 @@ ORANGE #ffa300;
 
 /* ------- GENERAL STYLES ------------- */
 html, body {
-    max-width: 100%;
+    max-width: 50%;
     overflow-x: clip;
 }
 
