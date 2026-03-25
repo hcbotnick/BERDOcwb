@@ -210,9 +210,8 @@ figure.post-thumbnail figcaption {
 }
 
 .viz-left .flourish-embed {
-    width: 100%;
-    padding: 0; 
-    margin: 20px 20px;
+    max-width:100%;
+    padding: 12px 16px;
 }
 
 
