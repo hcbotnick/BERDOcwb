@@ -211,6 +211,7 @@ figure.post-thumbnail figcaption {
 
 .viz-left .flourish-embed {
     width: 100%;
+    padding: 0; 
 }
 
 
