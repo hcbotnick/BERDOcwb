@@ -320,11 +320,12 @@ border-radius:10px;
     padding-bottom: .5rem;
     font-weight: 600;
     font-size: 20px;
-    text-indent: 3px;
+    text-indent: 4px;
     text-align: justify;
 }
 
 .quote--highlight {
     color: red;
+    font-size: 25px;
 }
 
