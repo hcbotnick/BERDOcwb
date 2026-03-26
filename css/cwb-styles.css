@@ -302,6 +302,8 @@ border-radius:10px;
     position: relative;
     letter-spacing: .03em;
     margin-bottom: .5rem;
+  font-weight: 800px;
+  font-size: 25px;
     
     &:before {
         position: absolute;
@@ -312,11 +314,7 @@ border-radius:10px;
         margin-right: -1rem;
     }
 }
-.quote--p  {
-  font-weight: 800px;
-  font-size: 25px;
-  font-style: bold;
-}
+
 .quote--container {
     margin: 4.5rem auto 0;
     width: auto;
