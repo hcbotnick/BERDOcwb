@@ -313,8 +313,8 @@ border-radius:10px;
     }
 }
 .quote--p {
- font-weight: 500px;
-  font-size: 20px
+ font-weight: 500;
+ font-size: 20px;
 }
 .quote--container {
     margin: 4.5rem auto 0;
