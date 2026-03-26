@@ -312,7 +312,11 @@ border-radius:10px;
         margin-right: -1rem;
     }
 }
-
+.quote p  {
+  font-weight: 800px;
+  font-size: 25px;
+  font-style: bold;
+}
 .quote--container {
     margin: 4.5rem auto 0;
     width: auto;
