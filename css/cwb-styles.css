@@ -317,8 +317,8 @@ border-radius:10px;
 
 .quote--container {
     margin: 4.5rem auto 0;
-    width: 17em;
-    border-bottom: 2px dotted #C6D1BF;
+    width: 15em;
+    border-bottom: 2px dotted red;
     padding-bottom: .5rem;
 }
 
