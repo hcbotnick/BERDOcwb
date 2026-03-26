@@ -297,24 +297,6 @@ border-radius:10px;
             box-sizing: border-box;
 }
 
-html, body {
-    font-family: 'EB Garamond';
-    font-size: 32px;
-    line-height: 1.4rem;
-    height: 100%;
-    padding: .5rem;
-    text-rendering: optimizeLegibility;
-    -moz-osx-font-smoothing: auto;
-     -webkit-font-smoothing: antialiased;
-             font-smoothing: antialiased;
-    font-kerning: normal;
-    color: #1A222F;
-    background: #F4FFF3;
-}
-
-p {
-    line-height: 1.4em;
-}
 
 .quote {
     position: relative;
