@@ -302,8 +302,8 @@ border-radius:10px;
     position: relative;
     letter-spacing: .03em;
     margin-bottom: .5rem;
-  font-weight: 800px;
-  font-size: 25px;
+  font-weight: 500px;
+  font-size: 20px;
     
     &:before {
         position: absolute;
