@@ -328,5 +328,6 @@ border-radius:10px;
 .quote--highlight {
     color: red;
     font-size: 25px;
+    font-weight: 700;
 }
 
