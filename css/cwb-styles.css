@@ -316,7 +316,7 @@ border-radius:10px;
 .quote--container p.quote {
     margin: 20 20;
     width: auto;
-    border: red;
+    border-left: red dotted;
     padding-bottom: .5rem;
     font-weight: 600;
    font-size: 20px;
