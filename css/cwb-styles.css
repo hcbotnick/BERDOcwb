@@ -304,20 +304,18 @@ border-radius:10px;
     margin-bottom: .5rem;
     
     &:before {
-        content: "“";
         position: absolute;
         left: -.7em;
     }
     
     &:after {
-        content: "”";
         margin-right: -1rem;
     }
 }
 
 .quote--container {
     margin: 4.5rem auto 0;
-    width: 15em;
+    width: auto;
     border-bottom: 2px dotted red;
     padding-bottom: .5rem;
 }
