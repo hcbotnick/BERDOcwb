@@ -317,11 +317,10 @@ border-radius:10px;
     margin: 30 30;
     width: auto;
     border: red 5px solid;
-    padding-bottom: .5rem;
     font-weight: 600;
     font-size: 20px;
     text-align: justify;
-    padding: 3px;
+    padding: 5px;
 }
 
 .quote--highlight {
