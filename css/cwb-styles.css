@@ -302,9 +302,7 @@ border-radius:10px;
     position: relative;
     letter-spacing: .03em;
     margin-bottom: .5rem;
-  font-weight: 500px;
-  font-size: 20px;
-    
+
     &:before {
         position: absolute;
         left: -.7em;
@@ -314,7 +312,10 @@ border-radius:10px;
         margin-right: -1rem;
     }
 }
-
+.quote--p {
+ font-weight: 500px;
+  font-size: 20px
+}
 .quote--container {
     margin: 4.5rem auto 0;
     width: auto;
