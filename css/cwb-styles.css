@@ -316,10 +316,11 @@ border-radius:10px;
 .quote--container p.quote {
     margin: 20 20;
     width: auto;
-    border-left: red dotted;
+    border-left: red 3px dashed;
     padding-bottom: .5rem;
     font-weight: 600;
-   font-size: 20px;
+    font-size: 20px;
+    text-indent: 2px;
 }
 
 .quote--highlight {
