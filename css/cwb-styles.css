@@ -312,7 +312,7 @@ border-radius:10px;
         margin-right: -1rem;
     }
 }
-.quote--p {
+p.quote {
  font-weight: 500;
  font-size: 20px;
 }
