@@ -320,8 +320,8 @@ border-radius:10px;
     padding-bottom: .5rem;
     font-weight: 600;
     font-size: 20px;
-    text-indent: 5px;
-    text-align: center;
+    text-indent: 3px;
+    text-align: justify;
 }
 
 .quote--highlight {
