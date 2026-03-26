@@ -317,10 +317,11 @@ border-radius:10px;
     margin: 30 30;
     width: auto;
     border-left: red 5px solid;
+    border-right: red 5px solid;
     padding-bottom: .5rem;
     font-weight: 600;
     font-size: 20px;
-    text-indent: 4px;
+    text-indent: 4.5px;
     text-align: justify;
 }
 
